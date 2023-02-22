@@ -1,5 +1,6 @@
 # Python code written by ChatGBT when asked to write python code to interface to a Postgres Database
 #
+#
 import psycopg2
 
 class PostgresDatabase:
